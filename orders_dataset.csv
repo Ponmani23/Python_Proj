@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Amount
+101,1,Laptop,45000
+102,2,Mouse,800
+103,3,Keyboard,1500
+104,2,Monitor,12000
+105,5,Headphones,2500
+106,8,Printer,8500
+107,10,Laptop,48000
+108,3,Mouse,900
+109,15,Tablet,18000
+110,12,Keyboard,2000
