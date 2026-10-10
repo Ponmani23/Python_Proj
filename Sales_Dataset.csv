@@ -1,0 +1,11 @@
+SaleID,ProductID,CustomerName,Quantity,SalesAmount
+1001,101,Anitha,1,55000
+1002,103,Ravi,5,400
+1003,104,Priya,2,9000
+1004,102,Kumar,1,7500
+1005,105,Divya,2,2400
+1006,101,Joseph,1,55000
+1007,109,Meena,1,3200
+1008,107,Arjun,2,17000
+1009,103,Catherine,10,800
+1010,106,David,1,12500
